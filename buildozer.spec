@@ -20,6 +20,7 @@ android.permissions = READ_EXTERNAL_STORAGE,WRITE_EXTERNAL_STORAGE
 
 android.api = 35
 android.minapi = 21
+android.accept_sdk_license = True
 
 [buildozer]
 
